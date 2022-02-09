@@ -1,0 +1,12 @@
+img{
+    border: 5px solid #000000;
+  }
+.center {
+    text-align: center;
+  }
+body, html{
+  font-weight: bold;
+  background-color: RebeccaPurple;
+  style="width:600px"
+  border: solid;
+}
